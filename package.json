@@ -11,7 +11,7 @@
 		"deploy": "gulp deployFTP --build",
 		"svgSprive": "gulp svgSprive"
 	},
-	"author": "FLS",
+	"author": "KIR",
 	"license": "ISC",
 	"dependencies": {
 		"gulp-cli": "^2.3.0"
